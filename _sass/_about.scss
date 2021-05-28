@@ -21,6 +21,13 @@
       float: left;
       @media (max-width: $break-small) {
         width: 100%;
+        font-size: 26px;
+      }
+      @media (min-width: $break-medium) {
+        font-size: 34px;
+      }
+      @media (min-width: $break-large) {
+        font-size: 36px;
       }
     }
 
