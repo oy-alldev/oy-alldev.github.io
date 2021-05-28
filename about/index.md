@@ -6,7 +6,15 @@ title: 개발팀 소개
 
 <div class="loading-animation">
     <div class="about">
-        <div class="title index">01</div>
+         <div class="title index">01</div>
+        <div class="content">
+            <h1 class="subtitle">개발팀 소개</h1>
+            <ul class="culture">
+                <li>올리브영 디지털사업본부는 Health & Beauty 와 같은 라이프스타일을 위한 버티컬 커머스 플랫폼을 만드는 것을 목표로 하는 조직입니다..</li>
+                <li>올리브영 온라인 / 모바일 앱을 운영하고 올리브영 매장과 온라인 몰을 연결하는 다양한 고객 서비스 들을 만들어 가는 조직입니다.</li>
+            </ul>
+        </div>
+        <div class="title index">02</div>
         <div class="content">
             <h1 class="subtitle">개발문화</h1>
             <ul class="culture">
@@ -22,7 +30,7 @@ title: 개발팀 소개
                 <li>실패 보다 머무름을 두려워 합니다.</li>
             </ul>
         </div>
-        <div class="title index">02</div>
+        <div class="title index">03</div>
         <div class="content">
             <h1 class="subtitle">개발환경</h1>
             <ul class="environment">
